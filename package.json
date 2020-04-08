@@ -1,4 +1,19 @@
 {
   "name": "CrayCSS",
   "version": "1.0.0"
-}
+  "description": "Forked to NPM",
+   "main": "cray.css",
+  
+},
+ "repository": {
+      "type": "git",
+      "url": "https://github.com/CollectivelyCode/craycss.git"
+    },
+"keywords": ["css","discord","dark"],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/CollectivelyCode/craycss/issues"
+    },
+    "homepage": "https://github.com/CollectivelyCode/craycss"
+  }
